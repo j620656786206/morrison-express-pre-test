@@ -1,6 +1,6 @@
 1. https://codepen.io/j620656786206/pen/vYeNqeG
 
-2.
+2. current folder
 
 3. 請概述通常前端 CRUD 會用到的後端 API 有哪些，規格是甚麼
     - C, create, 通常會採用`POST`方式, 規格會在header定義`content-type: application/json`, 參數在`body`帶上相對應的格式
